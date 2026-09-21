@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b8a98e899bdb5ba98b2428a0",
+  "owner": "jichangl1",
+  "repo": "page-2fec67850ac067c0df9a556f",
+  "title": "MG",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2fec67850ac067c0df9a556f",
+      "a": "MG",
+      "b": "2027官方最新地址导航",
+      "entity": "MG",
+      "brand": "MG",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8fce84059ff31915bf486edcd4a0e131af6c6f8e6881b705d78820a14b64b1c3",
+      "content": {
+        "primary_entity": "MG",
+        "keyword1": "MG",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据常用设备选择客户端，按文档导入订阅即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备挑选客户端",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_DESCRIPTION": "，围绕不同设备与使用场景提供基础版、旗舰版与团队版三档海外加速方案，流量从每月 100GB 到 1000GB 逐级提升，同时在线设备数覆盖 3 台至 20 台，适合个人、家庭及小型团队按需选择。",
+          "AI_FEATURES_INTRO": "从套餐额度、设备数量与订阅周期三个角度了解 MG。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，旗舰版 300GB 支持 5 台设备，团队版 1000GB 支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "个人用户可选基础版，多设备家庭或游戏玩家适合旗舰版，团队协作推荐团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，例如旗舰版按年付仅需 ¥350/年，适合长期稳定使用的场景。",
+          "AI_FEATURE_TITLE_1": "流量与设备梯度",
+          "AI_FEATURE_TITLE_2": "按需求选套餐",
+          "AI_FEATURE_TITLE_3": "月付与年付",
+          "AI_GUIDE_INTRO": "通过三步完成套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "快速上手流程",
+          "AI_HERO_INTRO": "MG 提供多档海外加速套餐，流量与设备数量逐级递增，覆盖个人浏览、流媒体播放、游戏加速及团队协作等场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需加速",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量可选",
+          "AI_HIGHLIGHT_2": "同时在线 3 台至 20 台设备",
+          "AI_HIGHLIGHT_3": "支持月付与年付灵活订阅",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路类型上有所不同，可按日常使用强度对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量消耗与同时在线设备数，在基础版、旗舰版、团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "确认所用设备数量不超过套餐上限，并查看客户端对系统的适配要求。",
+          "AI_STEP_TEXT_3": "在客户端中填入订阅配置信息，保存后即可用于对应设备。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "MG 海外加速",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，含 100GB 流量和 3 台设备；旗舰版 ¥35/月，含 300GB 流量、5 台设备与 IPLC 专线；团队版 ¥85/月，含 1000GB 流量和 20 台设备。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备，团队版支持 20 台设备，基础版支持 3 台设备。设备数按同时在线计算，超出后可升级套餐。",
+          "AI_FAQ_ANSWER_3": "基础版和旗舰版按月或按年计费，年付分别为 ¥150 和 ¥350；团队版年付为 ¥850。按年付比月付更省，适合长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "在客户端粘贴订阅链接后更新节点，首次使用建议先测速再切换。Clash 系客户端可在配置页检查订阅是否更新成功。",
+          "AI_FAQ_ANSWER_5": "常看流媒体且设备较多选旗舰版，5 台设备与 IPLC 专线兼顾速度；多人团队选团队版，20 台设备与 1000GB 流量更宽裕。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅导入。",
+          "AI_FAQ_QUESTION_1": "MG 三档套餐价格和流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "一个账号最多能在多少台设备上使用？",
+          "AI_FAQ_QUESTION_3": "套餐按月付和按年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅导入客户端后需要做什么检查？",
+          "AI_FAQ_QUESTION_5": "家庭或团队用户该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "smblc.cn",
+    "host": "smblc.cn"
+  },
+  "file_hashes": {
+    "index.html": "02a3889d749dfcad09f63a0e5bf659bf0bf7572dbf5bec5d8dbfd9b95ad01851",
+    "sitemap.xml": "9335ff53f9f871574092d0d8d18f865635e51950c6cd3b294b734e060d14390c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cd342c773bd0578f134141df5a02ff546be9a919835906a9965cd9e791a26bbd",
+    "robots.txt": "8ac475d0b9c8941ab9506b471c462e54f164f9b0f373cc4122398a81b43c70ef",
+    "ea9ebbdb3451b26bff9ab77aea514ba0.txt": "5dc8425ad3459442b2e7e289b0139697fe7bf84dc6550e46c88dbfa3ee5629fa"
+  },
+  "revision": "38a25589d761624216d1f2edbd158376070b531f0522cc1b2e5fabeaa528e630"
+}
